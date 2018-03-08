@@ -2,4 +2,4 @@
 Meteor - React - MongoDB
 
 ## Screenshot
-[Imgur](https://i.imgur.com/Iyrfd9O.png)
+![Screenshot](https://i.imgur.com/Iyrfd9O.png)
